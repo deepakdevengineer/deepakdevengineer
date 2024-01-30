@@ -1,7 +1,7 @@
 ![final llll](https://github.com/deepakdevengineer/deepakdevengineer/assets/129176978/e3166473-cc8d-4db9-8600-74c3f7f8d686 )
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Software Android developer from India</h3>
+<h3 align="center">Full Stack Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdevengineer&label=Profile%20views&color=0e75b6&style=flat" alt="deepakdevengineer" /> </p>
 
