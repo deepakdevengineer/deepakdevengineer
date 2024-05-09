@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dk78834@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PiLLN7xV5BCbPKqg6hNv-u9VZ5vcrvJW/view?usp=sharing](https://drive.google.com/file/d/1PiLLN7xV5BCbPKqg6hNv-u9VZ5vcrvJW/view?usp=sharing)
+- 📄 Know about my experiences [https://github.com/deepakdevengineer/My-Resume/blob/main/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
