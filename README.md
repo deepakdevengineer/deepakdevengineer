@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakdevengineer" alt="deepakdevengineer" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://deepakkportfolio.vercel.app/](https://deepakkportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://iamdeepak.tech/](http://iamdeepak.tech/)
 
 - 📫 How to reach me **dk78834@gmail.com**
 
