@@ -26,8 +26,24 @@ A few things I've actually shipped:
 
 ### 📌 Pinned
 
-<a href="https://github.com/deepakdevengineer/rag-knowledge-chatbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakdevengineer&repo=rag-knowledge-chatbot&hide_border=true" /></a>
-<a href="https://github.com/deepakdevengineer/ermis-v2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakdevengineer&repo=ermis-v2&hide_border=true" /></a>
+<table>
+<tr>
+<td width="50%">
+
+**[rag-knowledge-chatbot](https://github.com/deepakdevengineer/rag-knowledge-chatbot)**
+<br/>Upload a document, chat with it, grounded only in retrieved context.
+<br/><img src="https://img.shields.io/github/languages/top/deepakdevengineer/rag-knowledge-chatbot?style=flat-square" /> <img src="https://img.shields.io/github/stars/deepakdevengineer/rag-knowledge-chatbot?style=flat-square" />
+
+</td>
+<td width="50%">
+
+**[ermis-v2](https://github.com/deepakdevengineer/ermis-v2)**
+<br/>No AI detection becomes final without a human explicitly confirming it.
+<br/><img src="https://img.shields.io/github/languages/top/deepakdevengineer/ermis-v2?style=flat-square" /> <img src="https://img.shields.io/github/stars/deepakdevengineer/ermis-v2?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -75,8 +91,8 @@ A few things I've actually shipped:
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakdevengineer&show_icons=true&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdevengineer&layout=compact&hide_border=true" height="165" />
+<img src="https://img.shields.io/github/followers/deepakdevengineer?style=for-the-badge&logo=github&label=Followers&color=4F7CFF" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdeepakdevengineer&color=1F2A44" />
 
 <br/>
 
